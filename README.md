@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a father of 2 genius kids named ODOT! It's a pleasure to meet.
+- 👋 Hi, I’m a father of 2 genius kids.
 - 👀 I’m interested in Open Soruce Hardware and Software 
 - 🌱 I’m currently learning ways to improve in the FOSS community.
 - 💞️ I’m looking to collaborate on any open source projects.
